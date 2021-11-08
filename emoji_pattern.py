@@ -1,0 +1,17 @@
+# print("\U0001F917")
+# print("\U0001F637")
+# print("\U0001F62A")
+# print("\U0001F618")
+# print("\U0001F600")
+# print("\U0001F918")
+# print("\U0001F919")
+# print("\U0001F916")
+# print("\U0001F912")
+# print("\U0001F913")
+# print("\U0001F914")
+# print("\U0001F915")
+# print("\U0001F911")
+# print("\U0001F910")
+# print("\U0001F920")
+
+
